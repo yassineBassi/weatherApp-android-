@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="city">City</string>
+    <string name="humidit">Humidité</string>
+    <string name="pression">Pression</string>
+    <string name="t_max">T° max</string>
+    <string name="t_min">T° min</string>
+</resources>
